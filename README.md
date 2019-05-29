@@ -25,5 +25,8 @@ $ ./manage.py migrate
 5) Install Project Dependencies  
 pip install -r requirements.txt  
 
+Django JWT Tutorial  
+https://medium.com/@dakota.lillie/django-react-jwt-authentication-5015ee00ef9a  
 
-
+Django Sessions  
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Sessions  
