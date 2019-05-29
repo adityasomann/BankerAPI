@@ -5,7 +5,8 @@ Rest-framework with JWT, Session handling and basic API call setup.
 
 1) Setting Up Virtual environment for python   
 $ virtualenv -p python3 .env  
-$ source .env/bin/activate  
+$ source .env/bin/activate  - Linux/Mac
+$ source .env/Scripts/activate - Windows
 $ pip install django  
 $ deactivate  
 
